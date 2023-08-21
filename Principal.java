@@ -15,7 +15,7 @@ public class Principal {
 				fl = true;
 		}while (vida<3 && !fl );
 		if (fl==true)
-			System.out.println("Adivinaste! ");
+			System.out.println("Acertaste! ");
 		else
 			System.out.println("ups, perdiste! ");
 
